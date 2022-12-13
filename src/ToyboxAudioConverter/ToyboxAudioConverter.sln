@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyboxAudioConverter", "ToyboxAudioConverter\ToyboxAudioConverter.csproj", "{0659E115-06E2-4F08-99BB-56F851CA6E94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyboxAudioConverter.Tests", "ToyboxAudioConverter.Tests\ToyboxAudioConverter.Tests.csproj", "{0777CEAE-3ED0-415E-ABC9-6B2CAD24594D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0659E115-06E2-4F08-99BB-56F851CA6E94}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{0659E115-06E2-4F08-99BB-56F851CA6E94}.Debug|ARM64.Build.0 = Debug|ARM64
+		{0659E115-06E2-4F08-99BB-56F851CA6E94}.Debug|x64.ActiveCfg = Debug|x64
+		{0659E115-06E2-4F08-99BB-56F851CA6E94}.Debug|x64.Build.0 = Debug|x64
+		{0659E115-06E2-4F08-99BB-56F851CA6E94}.Release|ARM64.ActiveCfg = Release|ARM64
+		{0659E115-06E2-4F08-99BB-56F851CA6E94}.Release|ARM64.Build.0 = Release|ARM64
+		{0659E115-06E2-4F08-99BB-56F851CA6E94}.Release|x64.ActiveCfg = Release|x64
+		{0659E115-06E2-4F08-99BB-56F851CA6E94}.Release|x64.Build.0 = Release|x64
+		{0777CEAE-3ED0-415E-ABC9-6B2CAD24594D}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{0777CEAE-3ED0-415E-ABC9-6B2CAD24594D}.Debug|ARM64.Build.0 = Debug|ARM64
+		{0777CEAE-3ED0-415E-ABC9-6B2CAD24594D}.Debug|x64.ActiveCfg = Debug|x64
+		{0777CEAE-3ED0-415E-ABC9-6B2CAD24594D}.Debug|x64.Build.0 = Debug|x64
+		{0777CEAE-3ED0-415E-ABC9-6B2CAD24594D}.Release|ARM64.ActiveCfg = Release|ARM64
+		{0777CEAE-3ED0-415E-ABC9-6B2CAD24594D}.Release|ARM64.Build.0 = Release|ARM64
+		{0777CEAE-3ED0-415E-ABC9-6B2CAD24594D}.Release|x64.ActiveCfg = Release|x64
+		{0777CEAE-3ED0-415E-ABC9-6B2CAD24594D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4855CC96-768B-489F-AA9C-92D70EB252D2}
+	EndGlobalSection
+EndGlobal
