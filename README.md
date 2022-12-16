@@ -5,7 +5,7 @@
     </h1>
     <p align="center"><b>An audio quality converter for Toybox</b></p>
     <p align="center">
-        <a target="_blank" href="https://github.com/project-toybox/toybox-audio-converter/actions"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/project-toybox/toybox-audio-converter/Release"></a>
+        <a target="_blank" href="https://github.com/project-toybox/toybox-audio-converter/actions"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/project-toybox/toybox-audio-converter/release.yml?branch=main"></a>
         <a target="_blank" href="https://github.com/project-toybox/toybox-audio-converter/releases/latest"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/project-toybox/toybox-audio-converter"></a>
         <a target="_blank" href="https://github.com/project-toybox/toybox-audio-converter/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/project-toybox/toybox-audio-converter"></a>
     </p>
